@@ -1,1 +1,5 @@
 /untitled2.iml
+*.iml
+/.idea/
+/.out/
+/out/
